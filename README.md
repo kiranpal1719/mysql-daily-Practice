@@ -54,5 +54,5 @@ I practiced adding multiple customer records, including details like:
 - Account Balance  
 
 This helped me understand how to efficiently populate a table with multiple rows of data and prepare it for further queries.
-<img width="1607" height="619" alt="Screenshot 2026-02-25 201746" src="https://github.com/user-attachments/assets/1e5ed47d-f891-4e51-ac3d-af4410211e68" />
+
 
