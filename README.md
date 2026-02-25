@@ -54,5 +54,5 @@ I practiced adding multiple customer records, including details like:
 - Account Balance  
 
 This helped me understand how to efficiently populate a table with multiple rows of data and prepare it for further queries.
-
+![image alt](https://github.com/kiranpal1719/mysql-daily-Practice/blob/3b7c75fbaf02bb950e01298645f841f39d8b0e11/Screenshot%202026-02-25%20201746.png)
 
