@@ -22,6 +22,7 @@ The customers table contains the following fields:
 - city
 - mobile
 - email (Unique)
+- account_type
 - balance
 
 ---
