@@ -18,6 +18,7 @@ The customers table contains the following fields:
 - customer_id (Primary Key)
 - name
 - age
+- gender
 - city
 - mobile
 - email (Unique)
