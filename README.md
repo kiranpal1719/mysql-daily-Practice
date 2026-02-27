@@ -72,7 +72,7 @@ CREATE, ALTER, DROP, TRUNCATE
 
 Purpose in Project:
 To create tables, modify structures, and manage database objects as needed.
-
+##
 🔹 2. DML – DATA MANIPULATION LANGUAGE
 
 DML commands allow us to manipulate the data stored in tables.
@@ -82,7 +82,7 @@ INSERT, UPDATE, DELETE
 
 Purpose in Project:
 To insert new records, update existing data, and remove unnecessary entries from the database.
-
+##
 🔹 3. DQL – DATA QUERY LANGUAGE
 
 DQL commands are used to retrieve and analyze data from the database.
@@ -92,7 +92,7 @@ SELECT
 
 Purpose in Project:
 To fetch information about customers and accounts, filter data, and perform queries for analysis.
-
+##
 🔹 4. DCL – DATA CONTROL LANGUAGE
 
 DCL commands manage access and permissions for users on the database.
@@ -102,7 +102,7 @@ GRANT, REVOKE
 
 Purpose in Project:
 To provide or restrict user access to specific tables or operations for security and control.
-
+##
 🔹 5. TCL – TRANSACTION CONTROL LANGUAGE
 
 TCL commands are used to manage transactions within the database.
