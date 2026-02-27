@@ -1,3 +1,5 @@
+-- DDL
+
 USE BANK;
 
 ALTER TABLE bank_customer
