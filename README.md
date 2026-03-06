@@ -113,3 +113,26 @@ COMMIT, ROLLBACK, SAVEPOINT
 Purpose in Project:
 To permanently save changes, undo accidental modifications, and ensure data integrity.
 
+---
+
+
+## 📚 Day 4 - SQL JOINs & Aggregate Functions
+On Day 4, I focused on connecting multiple tables and summarizing data using SQL's most powerful features.
+I practiced:
+
+- **INNER JOIN** - Fetching matching records from two tables
+
+- **LEFT JOIN** - Getting all records from first table + matching from second
+
+- **RIGHT JOIN** - Getting all records from second table + matching from first
+
+- **FULL OUTER JOIN** - Combining all records from both tables
+
+- **Aggregate Functions** (COUNT, SUM, AVG, MAX, MIN) - Summarizing data
+
+- **GROUP BY** - Organizing data into groups
+
+- **HAVING** - Filtering groups based on conditions
+
+- **ORDER BY & LIMIT** - Sorting and limiting results
+
